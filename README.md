@@ -1,11 +1,11 @@
 # binary_search
 
- 
-
+int main()
+{
     
-    vector<int> arr = {59,64,34,82,10,12};
+    vector<int> arr = {59,64,57,82,13,10};
      
-    
+   
     if (binary_search(arr.begin(), arr.end(), 15))
        cout << "15 exists in vector";
     else
@@ -20,3 +20,4 @@
          cout << "23 does not exist";
       
     cout << endl;   
+}
