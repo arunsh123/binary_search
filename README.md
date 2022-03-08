@@ -1,9 +1,7 @@
 # binary_search
-#include<bits/stdc++.h>
-using namespace std;
+
  
-int main()
-{
+
     
     vector<int> arr = {59,64,34,82,10,12};
      
@@ -22,4 +20,3 @@ int main()
          cout << "23 does not exist";
       
     cout << endl;   
-}
