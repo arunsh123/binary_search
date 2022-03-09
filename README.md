@@ -1,10 +1,10 @@
-## binary_search
+# binary_search
 
 In this **Binary Search** we search an element in an array.
 For Binary Search it is compulsory that array is in sorted order and then we divide array in two part from middle and check that our searching element (key) is smaller or greater then our middle element if it is smaller than go to right part of array, otherwise left. And recursively call function until we get key . 
 
 Code of Binary Search is given below.
-![This is a Binary Search](https://media.istockphoto.com/photos/searching-picture-id146052752)
+
 
 For more Knowledge visit [GeeksforGeeks](https://www.geeksforgeeks.org/linear-search/)
 
