@@ -5,6 +5,8 @@ For Binary Search it is compulsory that array is in sorted order and then we div
 
 Code of Binary Search is given below.
 
+For more Knowledge visit [Geeksforgeeks](https://www.geeksforgeeks.org/linear-search/)
+
 int main()
 {
     
